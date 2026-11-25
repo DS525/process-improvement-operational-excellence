@@ -6,7 +6,7 @@
 
 ### Business Context
 
-As part of the Real-Time Operations team supporting a project for Booking.com, reporting analysts were required to manually prepare operational data exported from ClickView before analysis could begin.
+As part of the Real-Time Operations team supporting a project for Booking.com, reporting analysts were required to manually prepare operational data exported from QlikView before analysis could begin.
 
 The preparation process involved:
 
@@ -29,7 +29,7 @@ Automate and standardize the daily reporting preparation process using Excel VBA
 
 ### Original Workflow
 
-1. Export data from ClickView
+1. Export data from QlikView
 2. Retrieve the daily operational report
 3. Manually format numerous columns
 4. Remove unnecessary columns and data
@@ -51,7 +51,7 @@ To eliminate manual preparation work, I developed an Excel VBA macro that automa
 
 ### New Workflow
 
-1. Export the daily data from ClickView
+1. Export the daily data from QlikView
 2. Run the Excel macro
 
 The macro automatically:
