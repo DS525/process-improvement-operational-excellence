@@ -153,7 +153,6 @@ The automation shifted team effort away from repetitive spreadsheet manipulation
 - Increased operational efficiency
 - Greater focus on value-added analysis
 
-## Screenshots
+## Process Visualisation
 
-This project contains screenshots of the original reporting workflow, the VBA solution, and the resulting output to provide visual context and demonstrate the impact of the automation.
-
+This project includes a visual of the original workflow, the VBA solution, and the resulting output to illustrate the process and demonstrate the impact of the automation.
